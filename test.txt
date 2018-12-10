@@ -9,3 +9,5 @@ Test File
 - third commit from local master
 
 - second commit from feature
+
+- 4th commit from local master
