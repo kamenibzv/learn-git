@@ -7,3 +7,5 @@ Test File
 - fist commit from feature
 
 - third commit from local master
+
+- second commit from feature
