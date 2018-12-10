@@ -3,3 +3,5 @@ Test File
 - first line prior to git init
 
 - secong commit
+
+- fist commit from feature
